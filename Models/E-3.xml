@@ -1396,7 +1396,7 @@
 	<animation>
 		<type>spin</type>
 		<object-name>fandisk</object-name>
-		<property>engines/engine/n1</property>
+		<property>sim/multiplay/generic/float[0]</property>
 		<factor>10</factor>
 		<center>
 			<x-m> 1.87</x-m>
@@ -1413,7 +1413,7 @@
 	<animation>
 		<type>spin</type>
 		<object-name>fandisk2</object-name>
-		<property>engines/engine/n1</property>
+		<property>sim/multiplay/generic/float[0]</property>
 		<factor>10</factor>
 		<center>
 			<x-m>-2.087</x-m>
@@ -1430,7 +1430,7 @@
 	<animation>
 		<type>spin</type>
 		<object-name>fandisk3</object-name>
-		<property>engines/engine/n1</property>
+		<property>sim/multiplay/generic/float[0]</property>
 		<factor>10</factor>
 		<center>
 			<x-m>-2.0862</x-m>
@@ -1447,7 +1447,7 @@
 	<animation>
 		<type>spin</type>
 		<object-name>fandisk4</object-name>
-		<property>engines/engine/n1</property>
+		<property>sim/multiplay/generic/float[0]</property>
 		<factor>10</factor>
 		<center>
 			<x-m> 1.8713</x-m>
